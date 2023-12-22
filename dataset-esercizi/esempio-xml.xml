@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Aree naturali protette</tipologia_area>
+    <mq>35323</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Ville giardini e parchi</tipologia_area>
+    <mq>857868</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Parchi (giardini e ville) urbani</tipologia_area>
+    <mq>6143523</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Verde attrezzato</tipologia_area>
+    <mq>6589932</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Aree di arredo urbano</tipologia_area>
+    <mq>3453984</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Forestazione urbana</tipologia_area>
+    <mq>212068</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Giardini scolastici comunali</tipologia_area>
+    <mq>1357814</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Orti botanici</tipologia_area>
+    <mq>45684</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Orti urbani</tipologia_area>
+    <mq>5723</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Cimiteri</tipologia_area>
+    <mq>665670</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Aree all&apos;aperto sportive e a servizio ludico ricreativo</tipologia_area>
+    <mq>125772</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione Comunale</tipo_gestione>
+    <tipologia_area>Altre tipologie di verde urbano</tipologia_area>
+    <mq>372020</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Aree naturali protette</tipologia_area>
+    <mq>0</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Ville giardini e parchi</tipologia_area>
+    <mq>9919</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Parchi (giardini e ville) urbani</tipologia_area>
+    <mq>4215107</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Verde attrezzato</tipologia_area>
+    <mq>566188</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Aree di arredo urbano</tipologia_area>
+    <mq>94315</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Forestazione urbana</tipologia_area>
+    <mq>0</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Giardini scolastici comunali</tipologia_area>
+    <mq>29847</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Orti botanici</tipologia_area>
+    <mq>0</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Orti urbani</tipologia_area>
+    <mq>75119</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Cimiteri</tipologia_area>
+    <mq>0</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Aree all&apos;aperto sportive e a servizio ludico ricreativo</tipologia_area>
+    <mq>54409</mq>
+  </row>
+  <row>
+    <tipo_gestione>Gestione di altri enti pubblici</tipo_gestione>
+    <tipologia_area>Altre tipologie di verde urbano</tipologia_area>
+    <mq>118744</mq>
+  </row>
+</root>
